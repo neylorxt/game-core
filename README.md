@@ -1,5 +1,7 @@
 # GameCore
 
+![Aperçu du projet](./public/preview/preview.png)
+
 Landing page pour **GameCore**, une plateforme de backend infonuagique pour jeux multijoueurs : authentification, matchmaking, serveurs dédiés, sauvegardes cloud, analytics, etc.
 
 Page d'accueil responsive orientée développeurs, conçue pour les équipes utilisant **Unreal Engine**, **Unity** ou des moteurs personnalisés.
